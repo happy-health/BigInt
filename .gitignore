@@ -5,3 +5,4 @@ xcuserdata
 /Package.pins
 /Package.resolved
 .DS_Store
+/vendor

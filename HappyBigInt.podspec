@@ -1,11 +1,8 @@
 
 Pod::Spec.new do |spec|
-    spec.name         = 'BigInt'
+    spec.name         = 'HappyBigInt'
     spec.version      = '5.3.0'
     spec.ios.deployment_target = "12.0"
-    spec.osx.deployment_target = "10.15"
-    spec.tvos.deployment_target = "12.0"
-    spec.watchos.deployment_target = "4.0"
     spec.license      = { :type => 'MIT', :file => 'LICENSE.md' }
     spec.summary      = 'Arbitrary-precision arithmetic in pure Swift'
     spec.homepage     = 'https://github.com/attaswift/BigInt'
